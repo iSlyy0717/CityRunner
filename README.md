@@ -1,4 +1,3 @@
 # CityRunner
-First Somewhat Finished Game
+3D Endless Runner made in Unity for final year Video Games Development module.
 
-Made in 3 weeks by myself in Unity for my final year project of Computer Science.
